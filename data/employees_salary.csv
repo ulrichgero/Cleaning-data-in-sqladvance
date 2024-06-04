@@ -1,0 +1,21 @@
+employee_id,first_name,last_name,gender,date_of_birth,salary,role
+1,Jaime,Herring,male,2003-05-17,47732,sales
+2,Jacob,Riley,male,1959-06-30,55799,production
+3,Chloe,Hayes,male,1978-10-30,54845,director
+4,Diane,Keller,male,1963-04-10,64648,director
+5,Thomas,Davies,male,1970-11-16,58123,marketing
+6,Christopher,Stark,male,1968-12-31,66243,video-assistant
+7,Katherine,Leon,male,1989-06-14,54225,analyst
+8,Nancy,Miller,male,1975-03-20,69275,manager
+9,Sandra,Salazar,female,1967-01-21,65757,assistant-manager
+10,Megan,Tucker,male,1982-07-29,67258,social media manager
+11,Rachael,Mccoy,female,1960-04-16,59116,production
+12,Sandra,Bruce,male,1963-03-31,59935,director
+13,Amber,Sanchez,male,2005-11-01,60430,sales
+14,Peter,Dennis,male,1967-12-21,60832,social media manager
+15,Janet,Wilson,male,1975-08-12,51744,production
+16,Joshua,Robinson,male,1993-07-08,64852,electrician
+17,Lisa,Norton,male,1998-08-22,59650,assistant-manager
+18,Melissa,Cook,female,2002-06-27,62089,video-assistant
+19,Patty,Cabrera,male,1966-07-14,63983,analyst
+20,Brittany,Garcia,male,1990-09-08,55327,production
