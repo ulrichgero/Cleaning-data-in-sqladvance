@@ -17,3 +17,8 @@ DELIMITER ;
 
 INSERT INTO employees_salary (employee_id, first_name, last_name, salary, role)
 VALUE(21, 'Amel', 'Gero', 75000, 'CEO'); 
+
+
+-- EVENTS
+-- Events are like an update that happend when something occur
+
