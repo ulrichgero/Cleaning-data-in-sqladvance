@@ -21,4 +21,13 @@ VALUE(21, 'Amel', 'Gero', 75000, 'CEO');
 
 -- EVENTS
 -- Events are like an update that happend when something occur
+DELIMITER $$
+CREATE EVENT retire_employee
+ON SCHEDULE EVERY 30 SECOND
+DO
+BEGIN
+DELETE FROM employees_demogra
+WHERE age >= 60;
 
+END $$
+DELIMITER ;
